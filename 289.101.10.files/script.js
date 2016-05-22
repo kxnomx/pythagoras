@@ -24,12 +24,13 @@ document.getElementById('calculate').addEventListener('click', function() {
 )
 }
 
-if (width <=0 || height <=0) {
+/*
+else if (width <=0 || height <=0) {
     (
- 'values can not be 0 or less'
+ color: red;
 )
 }
-  
+  */
 });
 
 
